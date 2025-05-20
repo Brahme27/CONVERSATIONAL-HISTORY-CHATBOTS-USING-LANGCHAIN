@@ -251,6 +251,7 @@ with_message_history = RunnableWithMessageHistory(
 )
 
 # New session "chat5" for this memory-aware trimming example
+
 config = {"configurable": {"session_id": "chat5"}}
 response = with_message_history.invoke(
     {
