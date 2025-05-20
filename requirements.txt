@@ -1,0 +1,15 @@
+ipykernel
+python-dotenv
+langchain
+langchain-openai
+beautifulsoup4
+langchain_community
+faiss-cpu
+streamlit
+langchain_groq #LCEL
+fastapi #LCEL
+uvicorn #LCEL
+langserve#LCEL
+sse_starlette #LCEL
+
+transformers #Chatbot
